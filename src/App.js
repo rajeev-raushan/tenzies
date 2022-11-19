@@ -5,7 +5,7 @@ import Confetti from "react-confetti";
 
 export default function App() {
   const [dice, setDice] = React.useState(allNewDice());
-
+  //hello
   const [newgame, setNewgame] = React.useState(false);
   const [tenzies, setTenzies] = React.useState(false);
 
